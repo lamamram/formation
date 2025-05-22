@@ -9,7 +9,7 @@ function feature4_1(){
 
 
 function feature4_2(){
-  bad code4_2
+  code4_2
   return
 }
 
