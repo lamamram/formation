@@ -1,7 +1,7 @@
 import script2
 
 function feature1_1(){
-  code1_1
+  maj code1_1
   use script2
   return
 }
