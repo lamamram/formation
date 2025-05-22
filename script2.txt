@@ -2,3 +2,8 @@ function feature2_1(){
   code2_1
   return
 }
+
+function feature2_2(){
+  code2_2
+  return
+}
