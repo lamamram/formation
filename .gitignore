@@ -9,5 +9,18 @@ debug.log
 # !.vagrant/debug.log
 [sS]amples/
 
+## je veux ignorer "settings.json" où qu'il soit
+# settings.json
+# settings.*
 
+## je veux ignorer le contenu du dossier .vscode
+# .vscode/
 
+## je veux ignorer "settings.json" où qu'il soit dans un dossier .vscode
+# .vscode/**/settings.json
+
+## je veux ignorer settings.json dans la racine de la copie
+/settings.json
+
+# exception à une règle précédente SAUF règle de type "dossier"
+# !/settings.json
