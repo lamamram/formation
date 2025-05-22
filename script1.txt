@@ -10,10 +10,6 @@ function feature1_1(){
 
 
 
-function feature1_2(){
-  code1_2
-  return
-}
 
 
 
