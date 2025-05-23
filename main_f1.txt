@@ -1,3 +1,4 @@
 const CONTEXT
 
-item = feature1_1()
+obj = feature1_1()
+feature1_2(obj)
