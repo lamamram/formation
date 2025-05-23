@@ -1,4 +1,5 @@
 function feature3_dep(){
   dep_code++
+  dep_f1
   return
 }
