@@ -9,6 +9,6 @@ function feature4_2(){
 }
 
 function feature4_3(){
-  maj2 code4_3
+  maj_f5 code4_3
   return
 }
