@@ -6,6 +6,6 @@ function feature1_1(){
 }
 
 function feature1_2(){
-  codef1_2++++
+  maj codef1_2
   return
 }
