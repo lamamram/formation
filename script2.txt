@@ -4,8 +4,7 @@ function feature2_1(){
 }
 
 function feature2_2(){
-  maj_f2_fix code2_2
-  maj_f11_fix code2_2
-  code_f5_devB
+  good_maj_f6_over_f2_fix code2_2
+  good_maj_f6over_f2_fix code2_2
   return
 }

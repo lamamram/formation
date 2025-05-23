@@ -13,4 +13,10 @@ function feature1_3(){
   return
 }
 
+function feature1_4(){
+  code1_4
+  use dep2
+  return
+}
+
 

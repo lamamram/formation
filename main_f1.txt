@@ -1,4 +1,5 @@
 const CONTEXT
 
 obj = feature1_1()
-feature1_2(obj)
+ret = feature1_2(obj)
+feature3_1(ret)

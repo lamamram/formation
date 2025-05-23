@@ -1,5 +1,7 @@
+import script2
+
 function feature4_1(){
-  code4_1
+  good_maj code4_1
   return
 }
 
@@ -9,6 +11,7 @@ function feature4_2(){
 }
 
 function feature4_3(){
-  maj3_f5 code4_3
+  maj_f6_fix_f3 code4_3
+  use script2
   return
 }
