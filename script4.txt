@@ -1,7 +1,7 @@
 import script2
 
 function feature4_1(){
-  code4_1
+  good_maj code4_1
   return
 }
 
