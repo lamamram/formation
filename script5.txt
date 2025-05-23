@@ -4,17 +4,10 @@ function feature5_1(){
 }
 
 
-
-
-
-
 function feature5_2(){
   code5_2
   return
 }
-
-
-
 
 
 
