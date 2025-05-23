@@ -1,5 +1,5 @@
-function feature4_1(){
-  code4_1
+function feature5_1(){
+  code5_1
   return
 }
 
@@ -8,8 +8,8 @@ function feature4_1(){
 
 
 
-function feature4_2(){
-  code4_2
+function feature5_2(){
+  code5_2
   return
 }
 
@@ -18,7 +18,7 @@ function feature4_2(){
 
 
 
-function feature4_3(){
-  maj3 code4_3
+function feature5_3(){
+  maj3 code5_3
   return
 }
