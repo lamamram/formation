@@ -9,12 +9,6 @@ function feature1_1(){
 
 
 
-
-
-
-
-
-
 function feature1_3(){
   code1_3
   return
