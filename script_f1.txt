@@ -4,3 +4,8 @@ function feature1_1(){
   codef1_1
   return
 }
+
+function feature1_2(){
+  codef1_2++
+  return
+}
