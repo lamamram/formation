@@ -1,16 +1,15 @@
 import script2
 
 function feature1_1(){
-  maj code1_1
-  use script2
+  maj_f5 code1_1
+  maj_bis_f5_devA use script2
   return
 }
 
 
-
-
 function feature1_3(){
   code1_3
+  maj_f5_devA
   return
 }
 

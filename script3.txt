@@ -1,5 +1,6 @@
 function feature3_1(){
-  maj_f3 code3_3
+  maj_f5_devA code3_3
+  maj_f5_devB dep
   use dep
   return
 }
