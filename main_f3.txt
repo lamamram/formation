@@ -1,0 +1,5 @@
+const CONTEXT
+import script3
+
+obj = feature3_1() 
+print
